@@ -1,8 +1,8 @@
 language: python
 python:
-  - "3.4"
-  - "3.5"
-
+- '3.4'
+- '3.5'
 script: python -m unittest
 notifications:
-    slack: devops-team-otus:HHMDY9rFYkWHWkxpyUFwaUUa
+  slack:
+    secure: qDX5LFzZ+4h/wp91EtHwXmwXMZomE4KJ2GJsqm6OPvmzDfLwpxx5wPMiwnDKElVKRoVpKzaoWTFPfn9SFDJbpiasr8SUizh+/d44y6m/wCg0g/uWNWmjes6xcChSeiqT2ou5agzjn44+58QXdEmU+Q/lY9ldXHdO4T0ORfrPKLTwb1ddGBQPOQizlx/2P/WUtbGyyc/muEnUfKDqMANSsLMh8/nXU2bjEfNyOtOrV59X5doapTCVF4dE6trbSA1dTU2Zyx+unNzroMfV01qeKiP28VE0BGdMdKVUObBLHv+PIgyxQsf1cKE7sSvRXiBcP/YfgOMYBf+WZfz9aVE9DxAoyYzM5qwtQrhixsQRDu+Jj3/jSNBW0lvJznxlByS8OvWhYaXcbGS4CwfBH0IigqjqqGtEh6TotjlNW6HgWOfPs+OSdLsbrVWAyOk2nWiHSdYbIJH/go0wxVm39xbpBRx+NcwEGQ08k3OyYI4Jt3QTSYdvO8nBHPysV+jUhInxOeFzPav1d9I79RNBb14glVTCiU65kon2IbfpxpabFA69ilRFpZLTjMhgC82yp58aY4nCtl+2FMauyVLhbJ3WeJ0qeR+JamyuvC4bGcHji35jCfzj695L7EvRBttTkZEDyjVBVCsvacH63MKuQUKiXm2oz9LD0jNRg3pjHyaDR/0=
